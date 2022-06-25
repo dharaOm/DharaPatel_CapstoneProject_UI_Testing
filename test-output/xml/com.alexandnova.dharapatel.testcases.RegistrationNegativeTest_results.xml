@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Negative Registration"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="31.459">
+    <properties></properties>
+
+
+
+            <testcase
+                name="tc0003_register_with_invalid_email_test"
+                time="9.179"
+                classname="com.alexandnova.dharapatel.testcases.RegistrationNegativeTest">
+            </testcase>
+            <testcase
+                name="tc0005_register_with_invalid_password_test"
+                time="9.186"
+                classname="com.alexandnova.dharapatel.testcases.RegistrationNegativeTest">
+            </testcase>
+            <testcase
+                name="tc0004_registration_with_mandatory_field_blank_test"
+                time="13.094"
+                classname="com.alexandnova.dharapatel.testcases.RegistrationNegativeTest">
+            </testcase>
+</testsuite>

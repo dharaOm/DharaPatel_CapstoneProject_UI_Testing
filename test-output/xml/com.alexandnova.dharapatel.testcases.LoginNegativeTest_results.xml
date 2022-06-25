@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Invalid Login"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22.491">
+    <properties></properties>
+
+
+
+            <testcase
+                name="tc0007_login_with_invalid_credentials_test"
+                time="22.491"
+                classname="com.alexandnova.dharapatel.testcases.LoginNegativeTest">
+            </testcase>
+</testsuite>

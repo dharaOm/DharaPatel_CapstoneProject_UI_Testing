@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Login Successful Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="13.355">
+    <properties></properties>
+
+
+
+            <testcase
+                name="tc0006_login_with_valid_credentials_test"
+                time="13.355"
+                classname="com.alexandnova.dharapatel.testcases.LoginTest">
+            </testcase>
+</testsuite>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Checkout and Payment"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="42.252">
+    <properties></properties>
+
+
+
+            <testcase
+                name="tc0018_checkout_mandatory_fields_validation"
+                time="5.056"
+                classname="com.alexandnova.dharapatel.testcases.PaymentTest">
+            </testcase>
+            <testcase
+                name="tc0016_verify_discount_code_at_checkout_test"
+                time="20.863"
+                classname="com.alexandnova.dharapatel.testcases.PaymentTest">
+            </testcase>
+            <testcase
+                name="tc0017_payment_method_check"
+                time="15.230"
+                classname="com.alexandnova.dharapatel.testcases.PaymentTest">
+            </testcase>
+            <testcase
+                name="tc0019_product_checkout_successfully"
+                time="1.103"
+                classname="com.alexandnova.dharapatel.testcases.PaymentTest">
+            </testcase>
+</testsuite>

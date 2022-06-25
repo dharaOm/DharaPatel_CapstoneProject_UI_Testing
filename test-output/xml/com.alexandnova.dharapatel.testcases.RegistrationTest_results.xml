@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Patel_Dhara_Capstone_AlexAndNova"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="34.044">
+    <properties></properties>
+
+
+
+            <testcase
+                name="tc0002_new_user_registration_test"
+                time="24.067"
+                classname="com.alexandnova.dharapatel.testcases.RegistrationTest">
+            </testcase>
+            <testcase
+                name="tc0001_new_user_registration_page_test"
+                time="9.977"
+                classname="com.alexandnova.dharapatel.testcases.RegistrationTest">
+            </testcase>
+</testsuite>

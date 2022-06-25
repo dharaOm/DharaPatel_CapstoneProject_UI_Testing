@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Adding products to cart"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="25.584">
+    <properties></properties>
+
+
+
+            <testcase
+                name="tc0012_refresh_browser_test"
+                time="3.063"
+                classname="com.alexandnova.dharapatel.testcases.AddToCartTest">
+            </testcase>
+            <testcase
+                name="tc0014_verify_quantity_matches_totalPrice_inCart"
+                time="0.045"
+                classname="com.alexandnova.dharapatel.testcases.AddToCartTest">
+            </testcase>
+            <testcase
+                name="tc0011_add_product_to_cart_test"
+                time="3.299"
+                classname="com.alexandnova.dharapatel.testcases.AddToCartTest">
+            </testcase>
+            <testcase
+                name="tc0013_increase_quantity_test"
+                time="5.422"
+                classname="com.alexandnova.dharapatel.testcases.AddToCartTest">
+            </testcase>
+            <testcase
+                name="tc0010_verify_price_is_displayed_test"
+                time="9.777"
+                classname="com.alexandnova.dharapatel.testcases.AddToCartTest">
+            </testcase>
+            <testcase
+                name="tc0015_verify_cart_after_removing_items_test"
+                time="3.978"
+                classname="com.alexandnova.dharapatel.testcases.AddToCartTest">
+            </testcase>
+</testsuite>
